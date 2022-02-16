@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-851-advanced-data-structures-spring-2012/9280ffde99e5b6489b2eeb65cec376b8_3Y2weLDiUWw.pdf
+file: /media/courses/6-851-advanced-data-structures-spring-2012/9280ffde99e5b6489b2eeb65cec376b8_3Y2weLDiUWw.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Document
 title: 3play pdf file
 uid: 9280ffde-99e5-b648-9b2e-eb65cec376b8

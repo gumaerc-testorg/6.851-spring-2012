@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Calendar and Notes
 uid: 9d1ac4aa-2b01-9b19-847d-5dfcd274a338
 ---
@@ -423,7 +426,7 @@ VIDEOS
 {{< tdopen >}}
 
 
-**Integer:** Sorting in linear time for _w_ = _O_(lg2+ε n), priority queues
+**Integer:** Sorting in linear time for _w_ = _O_(lg{{< sup "2+ε" >}} n), priority queues
 
 [Detailed Description (PDF)]({{< baseurl >}}/resources/mit6_851s12_lecture14)
 
@@ -601,7 +604,7 @@ VIDEOS
 {{< tdopen >}}
 
 
-**Dynamic graphs:** Euler tour trees, decremental connectivity in trees in _O_(1), fully dynamic connectivity in _O_(lg2 _n_), survey
+**Dynamic graphs:** Euler tour trees, decremental connectivity in trees in _O_(1), fully dynamic connectivity in _O_(lg{{< sup "2" >}} _n_), survey
 
 [Detailed Description (PDF)]({{< baseurl >}}/resources/mit6_851s12_lecture20)
 

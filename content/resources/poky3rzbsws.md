@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-851-advanced-data-structures-spring-2012/b0040f0c578a944d1e9f5100dbc681a6_pOKy3RZbSws.srt
+file: /media/courses/6-851-advanced-data-structures-spring-2012/b0040f0c578a944d1e9f5100dbc681a6_pOKy3RZbSws.srt
 file_type: application/x-subrip
+learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file
 uid: b0040f0c-578a-944d-1e9f-5100dbc681a6

@@ -2,14 +2,22 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Lecture Videos
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Session 1: Persistent Data Structures'
 uid: b2dfac40-4f36-7dde-437a-ad378ea69bdb
 video_files:
   archive_url: http://www.archive.org/download/MIT6.851S12/MIT6_851S12_lec01_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/6-851-advanced-data-structures-spring-2012/e2feafbe88c25c90989db5c8baae3a9e_T0yzrZL1py0.vtt
+  video_captions_file: /courses/6-851-advanced-data-structures-spring-2012/e2feafbe88c25c90989db5c8baae3a9e_T0yzrZL1py0.vtt
   video_thumbnail_file: https://img.youtube.com/vi/T0yzrZL1py0/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/6-851-advanced-data-structures-spring-2012/d3cca795855400281720a24a1e27002e_T0yzrZL1py0.pdf
+  video_transcript_file: /courses/6-851-advanced-data-structures-spring-2012/d3cca795855400281720a24a1e27002e_T0yzrZL1py0.pdf
 video_metadata:
   youtube_id: T0yzrZL1py0
 ---

@@ -1,6 +1,8 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: e6a2d4eb-e523-d587-4ec8-ec90a6f535f2
 ---
@@ -64,26 +66,6 @@ H-Level Graduate Credit ![](/images/educator/icon-question-hlevel.png)
 ### Offered
 
 Typically every other spring semester
-
-{{< anchor "classroom" >}}{{< /anchor >}}
-
-The Classroom
--------------
-
-*   ![Tiered lecture hall with tablet arm desks, and chalkboards and projector at the front of the room.]({{< resource_file 4e49d67d-e789-fa1d-0b44-33d1cb1f3f84 >}})
-    
-    ![](/images/educator/classroom_prev.png) Room 1 of 2 [![Click for next classroom.](/images/educator/classroom_next.png)](#)
-    
-    ### Lecture
-    
-    The professor delivered lectures using the chalkboard to guide the students through the course material.
-    
-*   [![Click for previous classroom.](/images/educator/classroom_prev.png)](#) Room 2 of 2 ![](/images/educator/classroom_next.png)
-    
-    ### Open-Problem Session (Optional)
-    
-    The optional open-problem sessions were held in a conference room where students were able to easily collaborate in groups to work on the problems. The conference room size was able to hold around 30 individuals comfortably.
-    
 
 {{< anchor "assessment" >}}{{< /anchor >}}
 
