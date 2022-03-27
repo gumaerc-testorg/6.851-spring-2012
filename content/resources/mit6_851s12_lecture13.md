@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Calendar and Notes
 parent_type: CourseSection
+parent_uid: 9d1ac4aa-2b01-9b19-847d-5dfcd274a338
 resourcetype: Document
 title: Lecture 13 - Detailed Description
 uid: 5dc0caf3-2fc6-9d8a-e5ea-3a1d1968192c

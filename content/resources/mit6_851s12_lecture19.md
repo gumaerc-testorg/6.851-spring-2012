@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Calendar and Notes
 parent_type: CourseSection
+parent_uid: 9d1ac4aa-2b01-9b19-847d-5dfcd274a338
 resourcetype: Document
 title: Lecture 19 - Detailed Description
 uid: 636193e9-d57b-7a45-79ec-4738849c4090

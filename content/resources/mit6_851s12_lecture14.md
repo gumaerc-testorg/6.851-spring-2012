@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Calendar and Notes
 parent_type: CourseSection
+parent_uid: 9d1ac4aa-2b01-9b19-847d-5dfcd274a338
 resourcetype: Document
 title: Lecture 14 - Detailed Description
 uid: 507570a9-fbe2-7edb-c524-8303740d7e4f

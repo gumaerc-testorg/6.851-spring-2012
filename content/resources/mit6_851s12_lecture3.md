@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Calendar and Notes
 parent_type: CourseSection
+parent_uid: 9d1ac4aa-2b01-9b19-847d-5dfcd274a338
 resourcetype: Document
 title: Lecture 3 - Detailed Description
 uid: f66a13ff-e5da-a952-9114-029394031de9

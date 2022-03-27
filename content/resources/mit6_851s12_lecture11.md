@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Calendar and Notes
 parent_type: CourseSection
+parent_uid: 9d1ac4aa-2b01-9b19-847d-5dfcd274a338
 resourcetype: Document
 title: Lecture 11 - Detailed Description
 uid: daf7e573-f12a-4582-052a-be9b1f24712c
