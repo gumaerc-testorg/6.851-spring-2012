@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** Point location and range searching: persistence, retroactivity, dynamization of augmentation through weight balance, and fractional cascading.
 
 **Speaker:** Prof. Erik Demaine
+
+
+

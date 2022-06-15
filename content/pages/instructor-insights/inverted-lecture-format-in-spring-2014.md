@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: In this section, Prof. Demaine explains the changes to 6.851 when he
+  taught the course in the inverted lecture format in Spring 2014.
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection

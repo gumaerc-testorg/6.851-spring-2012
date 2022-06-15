@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** Fractional cascading in 3D orthogonal range searching in O(log n) time. Moving data, e.g., where 2D points move at known velocity and acceleration: kinetic predecessor and kinetic.
 
 **Speaker:** Prof. Erik Demaine
+
+
+

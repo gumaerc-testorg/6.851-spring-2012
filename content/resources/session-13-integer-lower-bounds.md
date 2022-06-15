@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** Integer data structure lower bounds. In particular, we'll prove that the min of van Emde Boas and fusion trees is an optimal (static) predecessor data structure up to a log log factor, assuming polynomial space.
 
 **Speaker:** Prof. Erik Demaine
+
+
+

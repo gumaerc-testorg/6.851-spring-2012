@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** Dynamic graphs: Euler tour trees, decremental connectivity in trees in O(1), fully dynamic connectivity in O(lg{{< sup "2" >}} _n_), survey.
 
 **Speaker:** Prof. Erik Demaine
+
+
+

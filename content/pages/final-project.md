@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides a description of the final project for the course,
+  policies, and details on project proposals.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection

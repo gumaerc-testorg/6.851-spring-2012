@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/6-851-advanced-data-structures-spring-2012/f4bfc8bdd6aa54e8b2610d6464dd4b0a_u-HHY1ylhHY.vtt
+file: /courses/6-851-advanced-data-structures-spring-2012/f4bfc8bdd6aa54e8b2610d6464dd4b0a_u-HHY1ylhHY.vtt
 file_type: application/x-subrip
 learning_resource_types: []
 ocw_type: OCWFile

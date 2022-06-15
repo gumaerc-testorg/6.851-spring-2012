@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** Partial and full retroactivity let us alter and manipulate the order of operations, and investigate the results. A third type, "non-oblivious", puts queries on the timeline as well, and reports the first query whose answer changed.
 
 **Speaker:** Prof. Erik Demaine
+
+
+
