@@ -5,6 +5,7 @@ file: /courses/6-851-advanced-data-structures-spring-2012/d4eed405d9ad021c48b1d4
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Calendar and Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Lecture 18 - Detailed Description
 uid: d4eed405-d9ad-021c-48b1-d4ae4c443da0
 ---
 This file contains information regarding lecture 18.
-

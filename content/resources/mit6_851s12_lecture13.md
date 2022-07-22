@@ -5,6 +5,7 @@ file: /courses/6-851-advanced-data-structures-spring-2012/5dc0caf32fc69d8ae5ea3a
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Calendar and Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Lecture 13 - Detailed Description
 uid: 5dc0caf3-2fc6-9d8a-e5ea-3a1d1968192c
 ---
 This file contains information regarding lecture 13.
-

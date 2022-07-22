@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -28,6 +29,4 @@ video_metadata:
 **Description:** Cache-efficient structures. B-trees are good at data transferred in blocks between cache and main memory, main memory and disk, and so on, achieving O(logB N) insert/delete/predecessor/successor for N items and memory block transfers of size B.
 
 **Speaker:** Prof. Erik Demaine
-
-
 

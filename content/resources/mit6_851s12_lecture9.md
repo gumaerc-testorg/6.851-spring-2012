@@ -5,6 +5,7 @@ file: /courses/6-851-advanced-data-structures-spring-2012/ceefd4a9796f451e1906a9
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Calendar and Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Lecture 9 - Detailed Description
 uid: ceefd4a9-796f-451e-1906-a918d2c2bcbb
 ---
 This file contains information regarding lecture 9.
-

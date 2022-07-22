@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -28,6 +29,4 @@ video_metadata:
 **Description:** History of memory models: Idealized 2-level, red-blue pebble game, external memory, HMM, BT, (U)MH, cache oblivious.
 
 **Speaker:** Prof. Erik Demaine
-
-
 

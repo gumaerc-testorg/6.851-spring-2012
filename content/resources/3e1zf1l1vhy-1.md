@@ -4,6 +4,7 @@ description: ''
 file: /courses/6-851-advanced-data-structures-spring-2012/9a175468c9e5aa136201c6663a5887b5_3e1ZF1L1VhY.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Document
 title: 3play pdf file

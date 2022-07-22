@@ -4,6 +4,7 @@ description: ''
 file: /courses/6-851-advanced-data-structures-spring-2012/9f9c12ee4b8c2895ac033fc2093b7eb8_XZLN6NxEQWo.srt
 file_type: application/x-subrip
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file

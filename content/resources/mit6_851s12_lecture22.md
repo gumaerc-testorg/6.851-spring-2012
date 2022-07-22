@@ -5,6 +5,7 @@ file: /courses/6-851-advanced-data-structures-spring-2012/b1e9220ce3f0d8d8f880f5
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Calendar and Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Lecture 22 - Detailed Description
 uid: b1e9220c-e3f0-d8d8-f880-f5001f8456b3
 ---
 This file contains information regarding lecture 22.
-

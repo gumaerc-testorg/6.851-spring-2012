@@ -5,6 +5,7 @@ file: /courses/6-851-advanced-data-structures-spring-2012/dc599d2aaeacf08715175c
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Calendar and Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Lecture 8 - Detailed Description
 uid: dc599d2a-aeac-f087-1517-5c008cd52514
 ---
 This file contains information regarding lecture 8.
-

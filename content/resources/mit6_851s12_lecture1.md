@@ -5,6 +5,7 @@ file: /courses/6-851-advanced-data-structures-spring-2012/c1f1787e75592d3c2943e6
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Calendar and Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Lecture 1 - Detailed Description
 uid: c1f1787e-7559-2d3c-2943-e66c3b74a687
 ---
 This file contains information regarding lecture 1.
-

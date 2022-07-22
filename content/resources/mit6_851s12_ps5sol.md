@@ -5,6 +5,7 @@ file: /courses/6-851-advanced-data-structures-spring-2012/13ae561fbb91a7e32b8cee
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Solutions to Problem Set 5
 uid: 13ae561f-bb91-a7e3-2b8c-ee6b8cce5426
 ---
 This file contains information regarding solutions to problem set 5.
-

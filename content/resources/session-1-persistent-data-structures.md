@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -28,6 +29,4 @@ video_metadata:
 **Description:** "Persistence"–remembering all past versions of a data structure ("partial persistence"), being able to modify them—forking off new ones ("full persistence"), and merging different versions into one ("confluent persistence").
 
 **Speaker:** Prof. Erik Demaine
-
-
 
