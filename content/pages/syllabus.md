@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, prerequisites, grading, and using LaTeX for problem sets.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 0586d482-62a8-cf61-256c-d4f0a5379180
 ---
@@ -112,10 +116,10 @@ Grading
 There are three requirements, other than attending lectures:
 
 *   Scribing one, maybe two, lectures. Note in particular that scribe notes are due on the day of the lecture. The entire calendar for the course has been posted, so you can select a lecture that interests you. We will circulate a sign-up sheet during the second week. Listeners may also be required to scribe one lecture.
-*   Lightweight homework [assignments]({{< baseurl >}}/pages/assignments). Problems will be posted weekly, and will not be distributed otherwise.
-*   Research-oriented [final project]({{< baseurl >}}/pages/final-project) (paper and presentation). We allow theoretical, experimental, and survey final projects.
+*   Lightweight homework {{% resource_link 32329e90-b031-e2c2-c47c-2a321cdafb3f "assignments" %}}. Problems will be posted weekly, and will not be distributed otherwise.
+*   Research-oriented {{% resource_link 688482c7-4a32-ee28-b5a4-8a7265d39b83 "final project" %}} (paper and presentation). We allow theoretical, experimental, and survey final projects.
 
 LaTeX Help
 ----------
 
-Homework solutions, scribe notes, and final projects must be typeset in LaTeX. If you are not familiar with LaTeX, there is no need to worry. Start with this good introduction, ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["The Not So Short Introduction to LaTeX 2" (PDF - 2.04MB)](http://tug.ctan.org/info/lshort/english/lshort.pdf). You need to know very little to start writing problem sets in LaTeX: just skim through the mathematics section in the introduction, and [download this template](https://courses.csail.mit.edu/6.851/spring12/hw-template.tex).
+Homework solutions, scribe notes, and final projects must be typeset in LaTeX. If you are not familiar with LaTeX, there is no need to worry. Start with this good introduction, ["The Not So Short Introduction to LaTeX 2" (PDF - 2.04MB)](http://tug.ctan.org/info/lshort/english/lshort.pdf). You need to know very little to start writing problem sets in LaTeX: just skim through the mathematics section in the introduction, and [download this template](https://courses.csail.mit.edu/6.851/spring12/hw-template.tex).

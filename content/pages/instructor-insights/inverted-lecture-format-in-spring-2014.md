@@ -1,7 +1,12 @@
 ---
 content_type: page
+description: In this section, Prof. Demaine explains the changes to 6.851 when he
+  taught the course in the inverted lecture format in Spring 2014.
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: e6a2d4eb-e523-d587-4ec8-ec90a6f535f2
 title: Inverted Lecture Format in Spring 2014
 uid: c71f1361-372b-53f9-a7d5-c62cd7fc52cf
