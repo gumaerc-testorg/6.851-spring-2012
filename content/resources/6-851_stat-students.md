@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/6-851-advanced-data-structures-spring-2012/71e5efa61c3906e4dd578c755b9a1dbb_6-851_stat-students.png
+file_size: 2986
 file_type: image/png
 image_metadata:
   caption: ''

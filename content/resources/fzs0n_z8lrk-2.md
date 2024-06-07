@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/6-851-advanced-data-structures-spring-2012/d0d4061cfbca5ae4996409e6dd87768f_FzS0n_Z8lrk.vtt
+file_size: 109082
 file_type: application/x-subrip
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
