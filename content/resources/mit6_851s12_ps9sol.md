@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains information regarding solutions to problem set 9.
 file: /courses/6-851-advanced-data-structures-spring-2012/c394cccaddf942b441f5207ee4198310_MIT6_851S12_ps9sol.pdf
+file_size: 135359
 file_type: application/pdf
 learning_resource_types:
 - Assignments

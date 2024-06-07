@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains information regarding lecture 18.
 file: /courses/6-851-advanced-data-structures-spring-2012/d4eed405d9ad021c48b1d4ae4c443da0_MIT6_851S12_Lecture18.pdf
+file_size: 135248
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
