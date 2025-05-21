@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding solutions to problem set 8.
-file: /ol-ocw-studio-app/courses/6-851-advanced-data-structures-spring-2012/86059e673f07b195236367b28b2bb294_MIT6_851S12_ps8sol.pdf
+file: /courses/6-851-advanced-data-structures-spring-2012/86059e673f07b195236367b28b2bb294_MIT6_851S12_ps8sol.pdf
 file_size: 159878
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/6-851-advanced-data-structures-spring-2012/e5ec44f7add0f2040e202fa3102e50b5_pOKy3RZbSws.pdf
+file: /courses/6-851-advanced-data-structures-spring-2012/e5ec44f7add0f2040e202fa3102e50b5_pOKy3RZbSws.pdf
 file_size: 94180
 file_type: application/pdf
 learning_resource_types: []
