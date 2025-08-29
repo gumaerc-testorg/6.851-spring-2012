@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding lecture 12.
-file: /courses/6-851-advanced-data-structures-spring-2012/c3832b3135f72cb04a7e085cfa6a0d66_MIT6_851S12_Lecture12.pdf
+file: /ol-ocw-studio-app/courses/6-851-advanced-data-structures-spring-2012/c3832b3135f72cb04a7e085cfa6a0d66_MIT6_851S12_Lecture12.pdf
 file_size: 254210
 file_type: application/pdf
 learning_resource_types:
