@@ -108,7 +108,7 @@ Most "linear size" data structures you know are much larger than they need to be
 Prerequisites
 -------------
 
-The prerequisite for this course is [_6.046, Design and Analysis of Algorithms_](/courses/6-046j-design-and-analysis-of-algorithms-spring-2012), or an equivalently thorough undergraduate algorithms class from another school (e.g., covering much of [![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262533058) CLRS). I recommend that you take [_6.854, Advanced Algorithms_](/courses/6-854j-advanced-algorithms-fall-2008), the broad entry-level graduate course in Theory / Algorithms—it normally makes sense to start there before jumping into deeper graduate courses. If you haven't taken 6.854, you must have a strong understanding of algorithms at the undergraduate level, such as receiving an A in 6.046, having done relevant research, involvement in computer competitions, etc.
+The prerequisite for this course is [_6.046, Design and Analysis of Algorithms_](/courses/6-046j-design-and-analysis-of-algorithms-spring-2012), or an equivalently thorough undergraduate algorithms class from another school (e.g., covering much of {{% resource_link "6020274a-383f-4ec8-a07f-87d4fc0ce055" "![Buy at MIT Press](/images/mp_logo.gif)" %}} CLRS). I recommend that you take [_6.854, Advanced Algorithms_](/courses/6-854j-advanced-algorithms-fall-2008), the broad entry-level graduate course in Theory / Algorithms—it normally makes sense to start there before jumping into deeper graduate courses. If you haven't taken 6.854, you must have a strong understanding of algorithms at the undergraduate level, such as receiving an A in 6.046, having done relevant research, involvement in computer competitions, etc.
 
 Grading
 -------
@@ -122,4 +122,4 @@ There are three requirements, other than attending lectures:
 LaTeX Help
 ----------
 
-Homework solutions, scribe notes, and final projects must be typeset in LaTeX. If you are not familiar with LaTeX, there is no need to worry. Start with this good introduction, ["The Not So Short Introduction to LaTeX 2" (PDF - 2.04MB)](http://tug.ctan.org/info/lshort/english/lshort.pdf). You need to know very little to start writing problem sets in LaTeX: just skim through the mathematics section in the introduction, and [download this template](https://courses.csail.mit.edu/6.851/spring12/hw-template.tex).
+Homework solutions, scribe notes, and final projects must be typeset in LaTeX. If you are not familiar with LaTeX, there is no need to worry. Start with this good introduction, {{% resource_link "1fe9a897-14ac-44f4-9266-230f7b38815a" "\"The Not So Short Introduction to LaTeX 2\" (PDF - 2.04MB)" %}}. You need to know very little to start writing problem sets in LaTeX: just skim through the mathematics section in the introduction, and {{% resource_link "b21e7491-980d-40ad-887e-2e9e9a64c7b9" "download this template" %}}.
