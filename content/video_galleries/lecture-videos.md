@@ -34,7 +34,7 @@ videos:
   website: 6-851-advanced-data-structures-spring-2012
 ---
 
-The lecture and class session videos are also available an integrated format (synced notes and video) on [Prof. Demaine's website for _6.851 Advanced Data Structures_](http://courses.csail.mit.edu/6.851/spring12/lectures/).
+The lecture and class session videos are also available an integrated format (synced notes and video) on {{% resource_link "26c1fec6-6be8-4c87-a57c-6b4932833dcb" "Prof. Demaine's website for _6.851 Advanced Data Structures_" %}}.
 
 {{< video-gallery "b66cbbb7-b35e-74ff-17cd-bf44e5fb6b1d" >}}
 
